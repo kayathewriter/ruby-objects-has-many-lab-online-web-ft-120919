@@ -1,4 +1,4 @@
 class Artist
-  this artist is pablo picasso
+  this artist is NAV
 end
 

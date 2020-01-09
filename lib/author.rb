@@ -1,3 +1,3 @@
 class Author
-  the authors name is Paulo Coehlo
+  the authors name is Tim Ferriss
 end
